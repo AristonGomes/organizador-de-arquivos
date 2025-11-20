@@ -19,9 +19,10 @@ Um script de linha de comando para organizar arquivos em subpastas com base em s
 
 ```bash
 python organizer.py --source "C:\Pasta\Origem" --destination "C:\Pasta\Destino"
+```
 
 Ou simplesmente execute o script para entrar no modo interativo:
 
 ```Bash
-
 python organizer.py
+```
