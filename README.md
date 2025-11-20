@@ -23,6 +23,6 @@ python organizer.py --source "C:\Pasta\Origem" --destination "C:\Pasta\Destino"
 
 Ou simplesmente execute o script para entrar no modo interativo:
 
-```Bash
+```bash
 python organizer.py
 ```
